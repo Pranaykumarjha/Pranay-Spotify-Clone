@@ -1,0 +1,9 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Music Note -->
+  <path d="M65 15 L65 60 Q50 55 50 70 Q50 80 60 85 Q70 90 80 85 Q90 80 90 70 Q90 55 75 50 L75 15 Z"
+        fill="black" stroke="gray" stroke-width="2"/>
+  
+  <!-- Speaker Circle -->
+  <circle cx="35" cy="75" r="12" fill="gray" stroke="black" stroke-width="2"/>
+  <circle cx="35" cy="75" r="6" fill="black"/>
+</svg>
